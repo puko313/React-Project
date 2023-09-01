@@ -1,188 +1,38 @@
-Contribution: 2015-01-07 20:00
+# React.js Örnek Projeler
 
-Contribution: 2015-01-12 20:00
+Bu projeler [Create React App](https://github.com/facebook/create-react-app) kullanılarak geliştirdiğim React.js projelerim.
 
-Contribution: 2015-01-13 20:00
+## Kurulum
 
-Contribution: 2015-01-15 20:00
+İlk olarak aşağıdaki komutu kopyalanız. 
+<br />
+Ardından terminal ekranını açarak, projenin kurulmasını istediğiniz bir alana gelerek yapıştırıp çalıştırınız.
 
-Contribution: 2015-01-15 20:01
+```
+git clone https://github.com/harundogdu/react-projects.git
+```
+<br />
+Klonlama işleminin ardından terminal ekranına istediğiniz projenin adını yazarak, aşağıda bulunan kodu yapıştırıp çalıştırınız.
 
-Contribution: 2015-01-15 20:02
+```
+cd react-projects/istediğiniz_proje/ && npm install 
+```
 
-Contribution: 2015-01-15 20:03
+## Çalıştırma
 
-Contribution: 2015-01-22 20:00
+Proje dizininde aşağıdaki komutu çalıştırarak projemizi başlatabiliriz.
 
-Contribution: 2015-01-22 20:01
+#### `yarn start`
 
-Contribution: 2015-01-22 20:02
+Uygulamayı geliştirme modunda çalıştırır.\
+Projeyi tarayıcıda görüntülemek için [http://localhost:3000](http://localhost:3000) adresini açar.
 
-Contribution: 2015-01-22 20:03
+Düzenleme yaparsanız sayfa yeniden yüklenir.\
+Herhangi bir hata veya log kaydını da anlık olarak konsol ekranında görebilirsiniz.
 
-Contribution: 2015-01-23 20:00
+## Daha fazlası
 
-Contribution: 2015-01-23 20:01
+Daha fazlası ve aklınıza takılan herhangi bir soru için için bana kişisel [web sitem](https://harundogdu.com/) üzerinden ulaşabilir, "Pull Request" isteklerinde bulunabilirsiniz.
 
-Contribution: 2015-01-23 20:02
 
-Contribution: 2015-01-23 20:03
-
-Contribution: 2015-01-23 20:04
-
-Contribution: 2015-02-06 20:00
-
-Contribution: 2015-02-06 20:01
-
-Contribution: 2015-02-06 20:02
-
-Contribution: 2015-02-12 20:00
-
-Contribution: 2015-02-13 20:00
-
-Contribution: 2015-02-13 20:01
-
-Contribution: 2015-02-18 20:00
-
-Contribution: 2015-02-18 20:01
-
-Contribution: 2015-02-18 20:02
-
-Contribution: 2015-02-18 20:03
-
-Contribution: 2015-02-18 20:04
-
-Contribution: 2015-02-24 20:00
-
-Contribution: 2015-02-24 20:01
-
-Contribution: 2015-02-24 20:02
-
-Contribution: 2015-02-24 20:03
-
-Contribution: 2015-02-27 20:00
-
-Contribution: 2015-03-03 20:00
-
-Contribution: 2015-03-03 20:01
-
-Contribution: 2015-03-11 20:00
-
-Contribution: 2015-03-11 20:01
-
-Contribution: 2015-03-11 20:02
-
-Contribution: 2015-03-11 20:03
-
-Contribution: 2015-03-16 20:00
-
-Contribution: 2015-03-16 20:01
-
-Contribution: 2015-03-17 20:00
-
-Contribution: 2015-03-17 20:01
-
-Contribution: 2015-03-17 20:02
-
-Contribution: 2015-03-19 20:00
-
-Contribution: 2015-03-19 20:01
-
-Contribution: 2015-03-19 20:02
-
-Contribution: 2015-03-19 20:03
-
-Contribution: 2015-03-20 20:00
-
-Contribution: 2015-03-20 20:01
-
-Contribution: 2015-03-20 20:02
-
-Contribution: 2015-03-20 20:03
-
-Contribution: 2015-03-20 20:04
-
-Contribution: 2015-03-23 20:00
-
-Contribution: 2015-03-23 20:01
-
-Contribution: 2015-03-23 20:02
-
-Contribution: 2015-03-25 20:00
-
-Contribution: 2015-03-25 20:01
-
-Contribution: 2015-03-25 20:02
-
-Contribution: 2015-03-25 20:03
-
-Contribution: 2015-03-27 20:00
-
-Contribution: 2015-03-27 20:01
-
-Contribution: 2015-03-27 20:02
-
-Contribution: 2015-03-27 20:03
-
-Contribution: 2015-03-27 20:04
-
-Contribution: 2015-04-03 20:00
-
-Contribution: 2015-04-03 20:01
-
-Contribution: 2015-04-06 20:00
-
-Contribution: 2015-04-06 20:01
-
-Contribution: 2015-04-06 20:02
-
-Contribution: 2015-04-07 20:00
-
-Contribution: 2015-04-07 20:01
-
-Contribution: 2015-04-07 20:02
-
-Contribution: 2015-04-07 20:03
-
-Contribution: 2015-04-14 20:00
-
-Contribution: 2015-04-14 20:01
-
-Contribution: 2015-04-14 20:02
-
-Contribution: 2015-04-14 20:03
-
-Contribution: 2015-04-20 20:00
-
-Contribution: 2015-04-20 20:01
-
-Contribution: 2015-04-21 20:00
-
-Contribution: 2015-04-21 20:01
-
-Contribution: 2015-04-22 20:00
-
-Contribution: 2015-04-22 20:01
-
-Contribution: 2015-04-22 20:02
-
-Contribution: 2015-04-27 20:00
-
-Contribution: 2015-04-27 20:01
-
-Contribution: 2015-04-27 20:02
-
-Contribution: 2015-04-27 20:03
-
-Contribution: 2015-04-28 20:00
-
-Contribution: 2015-04-28 20:01
-
-Contribution: 2015-04-28 20:02
-
-Contribution: 2015-04-28 20:03
-
-Contribution: 2015-05-01 20:00
-
-Contribution: 2015-05-01 20:01
 
